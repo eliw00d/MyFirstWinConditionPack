@@ -37,6 +37,33 @@
 				</d2p1:anyType>
 			</Children>
 		</d2p1:anyType>
+		<d2p1:anyType i:type="TableOfContents">
+			<Alias>Attrib</Alias>
+			<Children>
+				<d2p1:anyType i:type="Folder">
+					<Children>
+						<d2p1:anyType i:type="BurnAttributes">
+							<RelativeName>MyFirstWinConditionPack.xml</RelativeName>
+						</d2p1:anyType>
+					</Children>
+					<Name>attrib</Name>
+				</d2p1:anyType>
+			</Children>
+		</d2p1:anyType>
+		<d2p1:anyType i:type="TableOfContents">
+			<Alias>Locale</Alias>
+			<Children>
+				<d2p1:anyType i:type="Folder">
+					<Children>
+						<d2p1:anyType i:type="BurnFile">
+							<BurnSettings i:nil="true" />
+							<RelativeName>locale\english\english.ucs</RelativeName>
+						</d2p1:anyType>
+					</Children>
+					<Name>english</Name>
+				</d2p1:anyType>
+			</Children>
+		</d2p1:anyType>
 	</Children>
 	<Guid>9c6edcbe-6b58-4aca-81f0-edca8ccee620</Guid>
 	<Type>WinConditionPack</Type>
