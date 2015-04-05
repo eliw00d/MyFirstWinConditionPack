@@ -1,0 +1,13 @@
+name = "MyFirstWinConditionPack"
+scar_file = "data:scar/winconditions/default.scar"
+fe_name = "My First Win Condition Pack"
+fe_priority = 0
+score_display = time
+show_time = true
+entity_replacements =
+{
+	{
+		original = "victory_point",
+		replacement = "territory_point_mp",
+	}
+}
