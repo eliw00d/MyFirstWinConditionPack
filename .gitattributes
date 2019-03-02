@@ -18,3 +18,4 @@
 
 # Linguist languages
 *.scar linguist-language=Lua
+*.win linguist-language=Lua
