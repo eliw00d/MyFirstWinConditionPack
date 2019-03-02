@@ -47,7 +47,7 @@
 				<d2p1:anyType i:type="Folder">
 					<Children>
 						<d2p1:anyType i:type="BurnAttributes">
-							<RelativeName>MyFirstWinConditionPack.xml</RelativeName>
+							<RelativeName>ExampleWinConditionPack.xml</RelativeName>
 						</d2p1:anyType>
 					</Children>
 					<IsExpanded>true</IsExpanded>
