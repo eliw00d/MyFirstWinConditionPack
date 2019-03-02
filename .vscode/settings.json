@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.scar": "lua",
+        "*.win": "lua"
+    },
+    "files.exclude": {
+        "*Intermediate Cache": true,
+        "*.sga": true
+    }
+}
