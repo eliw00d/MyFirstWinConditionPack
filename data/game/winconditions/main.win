@@ -1,6 +1,6 @@
-name = "MyFirstWinConditionPack"
-scar_file = "data:scar/winconditions/default.scar"
-fe_name = "My First Win Condition Pack"
+name = "example-win-condition-pack"
+scar_file = "data:scar/winconditions/main.scar"
+fe_name = "Example Win Condition Pack"
 fe_priority = 0
 score_display = time
 show_time = true
