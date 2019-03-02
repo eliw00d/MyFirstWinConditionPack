@@ -12,6 +12,7 @@
 							<RelativeName>data\game</RelativeName>
 						</d2p1:anyType>
 					</Children>
+					<IsExpanded>false</IsExpanded>
 					<Name>game</Name>
 				</d2p1:anyType>
 				<d2p1:anyType i:type="Folder">
@@ -22,20 +23,23 @@
 							<RelativeName>data\scar</RelativeName>
 						</d2p1:anyType>
 					</Children>
+					<IsExpanded>false</IsExpanded>
 					<Name>scar</Name>
 				</d2p1:anyType>
 			</Children>
+			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
 		<d2p1:anyType i:type="TableOfContents">
 			<Alias>Info</Alias>
 			<Children>
 				<d2p1:anyType i:type="BurnModInfo">
 					<Dependencies />
-					<Description>This is my first win condition pack!</Description>
+					<Description>Example Win Condition Pack for Company of Heroes 2.</Description>
 					<Hidden>false</Hidden>
-					<Name>My First Win Condition Pack</Name>
+					<Name>Example Win Condition Pack</Name>
 				</d2p1:anyType>
 			</Children>
+			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
 		<d2p1:anyType i:type="TableOfContents">
 			<Alias>Attrib</Alias>
@@ -46,9 +50,11 @@
 							<RelativeName>MyFirstWinConditionPack.xml</RelativeName>
 						</d2p1:anyType>
 					</Children>
+					<IsExpanded>true</IsExpanded>
 					<Name>attrib</Name>
 				</d2p1:anyType>
 			</Children>
+			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
 		<d2p1:anyType i:type="TableOfContents">
 			<Alias>Locale</Alias>
@@ -60,11 +66,14 @@
 							<RelativeName>locale\english\english.ucs</RelativeName>
 						</d2p1:anyType>
 					</Children>
+					<IsExpanded>false</IsExpanded>
 					<Name>english</Name>
 				</d2p1:anyType>
 			</Children>
+			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
 	</Children>
 	<Guid>9c6edcbe-6b58-4aca-81f0-edca8ccee620</Guid>
+	<IsExpanded>false</IsExpanded>
 	<Type>WinConditionPack</Type>
 </Document>
